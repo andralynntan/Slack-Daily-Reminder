@@ -52,5 +52,6 @@ jobs:
       - name: Generate and post summary
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SUMMARY_TYPE: ${{ steps.summary-type.outputs.type }}
         run: python scripts/generate_summary.py
