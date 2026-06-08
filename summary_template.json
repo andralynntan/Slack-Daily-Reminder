@@ -1,23 +1,21 @@
 {
   "morning": {
     "greeting": "Here's your morning briefing to start the day:",
-    "priority_tasks": "• Review and respond to urgent messages\n• Check calendar for today's meetings\n• Follow up on pending items from yesterday",
-    "reminders": "• PZF Event: June 23-25 (countdown in progress!)\n• Partner collateral deadlines\n• Ticket sales tracking",
+    "reminders": "• *PZF Event*: June 23-25 (15 days away!)\n• Partner collateral deadlines\n• Ticket sales tracking\n• Speaker confirmations pending",
     "custom_sections": [
       {
-        "title": "📊 Key Metrics to Check",
-        "content": "• Notion task tracker\n• Partner status updates\n• Event preparation checklist"
+        "title": "🎯 Today's Focus Areas",
+        "content": "• Check PZF preparation checklist\n• Follow up on sponsor commitments\n• Review partner status updates"
       }
     ]
   },
   "evening": {
     "greeting": "Here's your end-of-day summary:",
-    "accomplishments": "• Review what was completed today\n• Note any blockers encountered\n• Update task status in Notion",
-    "tomorrow_prep": "• Identify top 3 priorities for tomorrow\n• Schedule focus blocks if needed\n• Prepare for any morning meetings",
+    "tomorrow_prep": "• Review tomorrow's calendar\n• Prepare for any morning meetings\n• Update task tracker with today's progress",
     "custom_sections": [
       {
-        "title": "📝 Quick Reflection",
-        "content": "• What went well today?\n• What could be improved?\n• Any follow-ups needed?"
+        "title": "📝 Before You Sign Off",
+        "content": "• Any urgent follow-ups needed?\n• Block time for deep work tomorrow\n• Set top 3 priorities for tomorrow"
       }
     ]
   }
